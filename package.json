@@ -1,0 +1,11 @@
+{
+  "name": "route53-cli",
+  "version": "0.0.0",
+  "description": "Delete and push records to route53",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MM",
+  "license": "BSD-2-Clause"
+}

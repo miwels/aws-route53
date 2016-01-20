@@ -1,0 +1,6 @@
+{
+    "name"   : "www.example.com",
+    "weight" : 1,
+    "type"   : "A",
+    "TTL"    : 1
+}
