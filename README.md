@@ -1,7 +1,11 @@
 # aws-route53
 **Scripts to interact with Route53 using NodeJS**
 
-The purpose of this script is to be able to create/delete records in Route53 by using a simple command. The syntax is:
+The purpose of this script is to be able to create/delete records in Route53 by using a simple command. This program only requires the AWS-SDK so if you don't have it run:
+
+> npm install
+
+The syntax is:
 
 > ./app.js verb ip
 
